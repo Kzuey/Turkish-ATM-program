@@ -16,7 +16,7 @@ print("------ Bakiye yatırmak için 1e basın ------")
 print("------ Bakiye çekmek için 2ye basın  ------")
 print(bosluk)
 
-#işlemler
+#actions
 islem = int(input())
 if islem == islem1:
  print(bosluk)
@@ -43,4 +43,8 @@ elif islem == islem2:
 else:
  print("----------- İşleminiz başarısız -----------")
 
-#son
+#end
+print(bosluk)
+print("---Programı kapatmak için \"Enter\"a basın---")
+print(bosluk)
+hiclik = input()
